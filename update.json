@@ -1,7 +1,4 @@
-    {
-      "versionCode": 2,
-      "newVersionName": "1.3",
-        "url": "https://github.com/noobody95/app-updates/releases/download/v1.1/Blocco.apk",
-        "releaseNote": "Fix bug"
-    }
-    
+{
+  "newVersionCode": 2,  "apkUrl": "https://github.com/noobody95/app-updates/releases/download/v1.1/Blocco.apk",
+  "releaseNotes": "Fix bug"
+}
